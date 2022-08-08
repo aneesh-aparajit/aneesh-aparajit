@@ -1,8 +1,6 @@
 <h1 align="center">Yo! I am Aneesh Aparajit G</h1>
 <h3 align="center">Interested in anything relating Machine Learning, Deep Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesh-aparajit&label=Profile%20views&color=0e75b6&style=flat" alt="aneesh-aparajit" /> </p>
-
 - 🔭 Working on **Machine Learning and Deep Learning.**
 
 - 🌱 I’m currently learning **Federated Learning, Deep Learning and Machine Learning.**
