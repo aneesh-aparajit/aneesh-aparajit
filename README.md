@@ -26,7 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneesh-aparajit&show_icons=true&locale=en&layout=compact" alt="aneesh-aparajit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneesh-aparajit&show_icons=true&locale=en" alt="aneesh-aparajit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneesh-aparajit&" alt="aneesh-aparajit" /></p>
-
