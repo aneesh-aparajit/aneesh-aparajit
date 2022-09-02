@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Federated Learning, Deep Learning and Machine Learning.**
 
-- 💬 Ask me about **Deep Learning and Machine Learning.**
+- 💬 Ask me about **Deep Learning, Machine Learning and GANs!!**
 
 - 📫 How to reach me **aneeshaparajit.g2002@gmail.com**
 
