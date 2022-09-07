@@ -3,7 +3,7 @@
 ![WGAN-GP](./images/WGAN-GP.png)
 
 <h3 align="center">Interested in anything relating Machine Learning and Deep Learning.</h3>
-- 🔭 Working on **Machine Learning and Deep Learning.**
+- 🔭 Working on **Machine Learning and Deep Learning**.
 
 - 🌱 I’m currently learning **Federated Learning, Deep Learning and Machine Learning.**
 
