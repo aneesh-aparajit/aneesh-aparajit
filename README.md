@@ -3,7 +3,7 @@
 ![WGAN-GP](./images/WGAN-GP.png)
 
 <h3 align="center">Interested in anything relating Machine Learning and Deep Learning.</h3>
-- 🔭 Working on **Machine Learning and Deep Learning**.
+- 🔭 Working on **Machine Learning and Deep Learning.**
 
 - 🌱 I’m currently learning **Federated Learning, Deep Learning and Machine Learning.**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aneeshaparajit.g2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_aK2stgysTFf6ftJBE0lCAMyXjOm5ERE/view?usp=sharing](https://drive.google.com/file/d/1_aK2stgysTFf6ftJBE0lCAMyXjOm5ERE/view?usp=sharing)
+- 📄 Know about my experiences [Here!](https://drive.google.com/file/d/1oe1CLUlUai-VqRDFOA8FTtVXRmHdYGhN/view?usp=sharing)
 
 - ⚡ Fun fact **I am interested in cricket and music.**
 
