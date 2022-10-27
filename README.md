@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Federated Learning, Deep Learning and Machine Learning.**
 - 💬 Ask me about **Deep Learning, Machine Learning and GANs!!**
 - 📫 How to reach me **aneeshaparajit.g2002@gmail.com**
-- 📄 Know about my experiences [Here!](https://drive.google.com/file/d/1oe1CLUlUai-VqRDFOA8FTtVXRmHdYGhN/view?usp=sharing)
+- 📄 Know about my experiences [Here!](https://drive.google.com/file/d/1c4bjKTL74QLD-ToK0ZXxmNiyGDs4CkQC/view?usp=sharing)
 - ⚡ Fun fact **I am interested in cricket and music.**
 
 <h3 align="left">Connect with me:</h3>
